@@ -1,0 +1,14 @@
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\bin\Debug\net8.0\HtmlEditor.exe
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\bin\Debug\net8.0\HtmlEditor.deps.json
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\bin\Debug\net8.0\HtmlEditor.runtimeconfig.json
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\bin\Debug\net8.0\HtmlEditor.dll
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\bin\Debug\net8.0\HtmlEditor.pdb
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.dll
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\refint\HtmlEditor.dll
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.pdb
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\HtmlEditor.genruntimeconfig.cache
+C:\Users\lsarmento\Desktop\dotnet\HtmlEditor\obj\Debug\net8.0\ref\HtmlEditor.dll
